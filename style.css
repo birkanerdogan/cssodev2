@@ -1,0 +1,54 @@
+body {
+    font-family: Verdana, monospace, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    min-height: 800px;
+}
+.logo {
+    width: 350px;   
+    position: relative;
+    margin: 0 auto;
+}
+
+#search {
+    width: 900px;   
+    margin: 0 auto;
+    background-color: #EEEEEE;
+}
+
+p{
+    margin: 0;
+
+}
+
+.boxes {
+    width: 900px;
+    position: relative;
+    margin: auto;
+    margin-bottom: 100px;
+
+ 
+}
+
+.box {
+    width: 298px;
+    height: 80px;
+    float: left;
+    margin-right: 2px;
+    margin-top: 2px;
+  
+    
+}
+
+.bg-1 {
+    background-color: #7EE5DA;
+    
+}
+    
+.bg-2 {
+    background-color: #70CCC2;
+}
+
+.bg-3 {
+    background-color: #62B3AA;
+}
